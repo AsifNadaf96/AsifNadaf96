@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Asif
 
-<!--
-**AsifNadaf96/AsifNadaf96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a BCA degree and passionate about web development.  
+I enjoy building responsive and interactive websites using modern web technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I’m working on
+- Learning full-stack development
+- Building real-world web projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- HTML, CSS, JavaScript
+- React, Node.js, MongoDB (learning)
+
+### 📫 Connect with me
+- LinkedIn:https://www.linkedin.com/in/asif-nadaf
+- Portfolio:https://asifnadaf96.github.io/My-Portfolio/
+
+Thanks for visiting my profile!
