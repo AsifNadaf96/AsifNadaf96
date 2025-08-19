@@ -1,19 +1,29 @@
-# 👋 Hi, I'm Asif
-Here’s where I build, learn, and share.
+👋 Hi, I'm Asif
 
-I'm currently pursuing a BCA degree and passionate about web development.  
-I enjoy building responsive and interactive websites using modern web technologies.
+Welcome to my GitHub!
+Here’s where I build, learn, and share my journey in tech.
 
-## 🚀 What I’m working on
-- Learning full-stack development
-- Building real-world web projects
+🎓 I’m currently pursuing a BCA degree and exploring the world of web development.
+💡 I enjoy creating responsive, interactive websites and learning new technologies along the way.
 
-### 💻 Skills
-- HTML, CSS, JavaScript
-- React, Node.js, MongoDB (learning)
+🚀 What I’m Working On
 
-### 📫 Connect with me
-- LinkedIn:https://www.linkedin.com/in/asif-nadaf
-- Portfolio:https://asifnadaf96.github.io/My-Portfolio/
+Growing my skills in full-stack development
 
-Thanks for visiting my profile!
+Building real-world projects that solve problems
+
+Experimenting with new tools and frameworks
+
+💻 Skills
+
+Frontend: HTML, CSS, JavaScript
+
+Learning: React, Node.js, MongoDB
+
+🌐 Connect With Me
+
+🔗 LinkedIn
+
+💼 Portfolio
+
+✨ Thanks for stopping by! Always excited to connect, collaborate, and keep learning.
